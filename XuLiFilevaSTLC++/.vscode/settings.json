@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "cstdlib": "cpp",
+        "stack": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "ranges": "cpp",
+        "iosfwd": "cpp",
+        "iomanip": "cpp"
+    }
+}
